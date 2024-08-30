@@ -61,7 +61,6 @@ Update the Little Lemon website to use Bootstrap Components.
 22. Verify at the new badge is displayed on the Falafel header.
 23. Verify that the Order Online button is displayed.
 24. Make sure to close the server by clicking on exposed Port number (e.g. 5500) after completing the lab.
-<br>You should see a notification like this which confirms the server has been stopped.
  
 ## Tips
 -	Make sure to add your columns to row elements.
