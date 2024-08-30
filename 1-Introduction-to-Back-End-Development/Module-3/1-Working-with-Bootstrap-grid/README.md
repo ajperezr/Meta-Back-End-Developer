@@ -235,4 +235,4 @@ Create a two-columns food menu for Little Lemon.
 ## Tips
 -	Make sure to add your columns to row elements.
 -	Remember that Bootstrap uses a 12-column grid system.
--	Review the lessons Using Bootstrap Styles and Bootstrap Grid.
+-	Review the lessons *Using Bootstrap Styles* and *Bootstrap Grid*.
