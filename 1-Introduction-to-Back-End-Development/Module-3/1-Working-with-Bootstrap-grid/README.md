@@ -230,7 +230,6 @@ Create a two-columns food menu for Little Lemon.
 20. Select the device toolbar and choose MacBook 15 as device.
 21. Verify that the web page displays the Little Lemon menu in two columns.
 22. Make sure to close the server by clicking on exposed Port number (e.g. 5500) after completing the lab.
-<br>You should see a notification like this which confirms the server has been stopped.
  
 ## Tips
 -	Make sure to add your columns to row elements.
