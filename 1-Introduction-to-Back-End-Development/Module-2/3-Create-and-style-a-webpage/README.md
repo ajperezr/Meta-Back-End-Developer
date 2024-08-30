@@ -31,7 +31,7 @@ Follow the Step by Step instructions below:
     </body>
     </html>
     ```
-2. Set the title of the HTML document to your name:
+2. Set the `title` of the HTML document to `your name`:
     ```HTML
     <!DOCTYPE html>
     <html>
